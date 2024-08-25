@@ -5,10 +5,6 @@ const Home = () => {
   return (
     <div>
       <Branding />
-      <Button>Call to action</Button>
-      <Featured />
-      <Review />
-      <Footer />
     </div>
   );
 };
